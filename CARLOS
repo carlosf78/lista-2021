@@ -1,0 +1,6 @@
+#EXTM3U
+
+Title: "ANIMAL PLANET"
+    streamFormat: "hls"
+    Logo: "https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png"
+    Stream: "http://23.237.32.130/hls/ANIMALPLANETMX.m3u8"
